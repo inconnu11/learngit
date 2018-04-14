@@ -3,3 +3,4 @@ PKU will also admit me!!
 Yap!
 Tomorrow will be a good day.
 And everyday will be the same lucky. 
+/usr/bin/env
